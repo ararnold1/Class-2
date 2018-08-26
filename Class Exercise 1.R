@@ -33,3 +33,5 @@ plot(fit, main="KM plot for Lung cancer data in males and females", xlab="Time i
 #assigning labels
 legend('topright', c("Male","Female"), lty=1, col=c(1,2))
 #c allows you to include multiple numbers
+
+
